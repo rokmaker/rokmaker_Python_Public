@@ -1,0 +1,1 @@
+# rokmaker_ClipboardProgramBuild_ver001
