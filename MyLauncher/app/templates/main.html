@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+{% endblock %}
+
+{% block content %}
+    <div id="launcher-container">
+        <h1>My Launcher</h1>
+        <div id="shortcut-grid">
+            
+            <div class="shortcut-block" data-id="unique_id_1">
+                <span>메모장</span>
+            </div>
+            <div class="shortcut-block" data-id="unique_id_2">
+                <span>계산기</span>
+            </div>
+            <div class="shortcut-block" data-id="some_new_id_3">
+                <span>그림판</span>
+            </div>
+            <div class="shortcut-block" data-id="some_new_id_4">
+                <span>탐색기</span>
+            </div>
+
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+{% endblock %}
