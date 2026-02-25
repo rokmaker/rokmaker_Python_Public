@@ -36,7 +36,7 @@ import configparser
 
 
 
-class ROKMAKER_BABO():
+class clipboard():
     # def load_config(app):
     #     config = configparser.ConfigParser()
     #     # 'config.ini' 파일이 존재하지 않을 경우 처리
@@ -238,7 +238,7 @@ class ROKMAKER_BABO():
 # run_app()
 
 def main():
-    rokmaker = ROKMAKER_BABO()
+    rokmaker = clipboard()
     rokmaker.do()
 
 if __name__ == '__main__':
