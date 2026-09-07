@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-09-07",
+  "source": "https://poe2db.tw/us/Skill_Gems",
+  "scope": "Gemcutting table comparison; not an independent in-game acquisition audit",
+  "localCount": 182,
+  "liveCount": 182,
+  "notInGemcutting": [],
+  "missingFromApp": [],
+  "exclusiveExamples": [
+    {
+      "name": "Manifest Weapon",
+      "inApp": false
+    },
+    {
+      "name": "Temporal Rift",
+      "inApp": false
+    },
+    {
+      "name": "Demon Form",
+      "inApp": false
+    },
+    {
+      "name": "Time Freeze",
+      "inApp": false
+    },
+    {
+      "name": "Skeletal Warrior",
+      "inApp": false
+    }
+  ]
+}

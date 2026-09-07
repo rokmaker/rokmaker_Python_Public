@@ -1,0 +1,3035 @@
+{
+  "checkedAt": "2026-09-07",
+  "source": "https://poe2db.tw/us/Skill_Gems",
+  "scope": "Gemcutting table",
+  "gems": [
+    {
+      "id": "Unearth",
+      "name": "발굴",
+      "en": "Unearth",
+      "tier": 1,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Minion"
+      ],
+      "source": "https://poe2db.tw/kr/Unearth"
+    },
+    {
+      "id": "Contagion",
+      "name": "전염",
+      "en": "Contagion",
+      "tier": 1,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Contagion"
+    },
+    {
+      "id": "Skeletal_Sniper",
+      "name": "해골 저격수",
+      "en": "Skeletal Sniper",
+      "tier": 1,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Sniper"
+    },
+    {
+      "id": "Enfeeble",
+      "name": "쇠약화",
+      "en": "Enfeeble",
+      "tier": 3,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Curse"
+      ],
+      "source": "https://poe2db.tw/kr/Enfeeble"
+    },
+    {
+      "id": "Bone_Cage",
+      "name": "뼈 창살",
+      "en": "Bone Cage",
+      "tier": 3,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Bone_Cage"
+    },
+    {
+      "id": "Essence_Drain",
+      "name": "정수 흡수",
+      "en": "Essence Drain",
+      "tier": 3,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Essence_Drain"
+    },
+    {
+      "id": "Skeletal_Arsonist",
+      "name": "해골 방화범",
+      "en": "Skeletal Arsonist",
+      "tier": 3,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Arsonist"
+    },
+    {
+      "id": "Raise_Zombie",
+      "name": "좀비 소환",
+      "en": "Raise Zombie",
+      "tier": 5,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion"
+      ],
+      "source": "https://poe2db.tw/kr/Raise_Zombie"
+    },
+    {
+      "id": "Bonestorm",
+      "name": "뼈 폭풍",
+      "en": "Bonestorm",
+      "tier": 5,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Bonestorm"
+    },
+    {
+      "id": "Pain_Offering",
+      "name": "고통의 공물",
+      "en": "Pain Offering",
+      "tier": 5,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Pain_Offering"
+    },
+    {
+      "id": "Skeletal_Frost_Mage",
+      "name": "해골 서리 마법사",
+      "en": "Skeletal Frost Mage",
+      "tier": 5,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Frost_Mage"
+    },
+    {
+      "id": "Vulnerability",
+      "name": "취약성",
+      "en": "Vulnerability",
+      "tier": 7,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Curse"
+      ],
+      "source": "https://poe2db.tw/kr/Vulnerability"
+    },
+    {
+      "id": "Bind_Spectre",
+      "name": "망령 속박",
+      "en": "Bind Spectre",
+      "tier": 7,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Bind_Spectre"
+    },
+    {
+      "id": "Detonate_Dead",
+      "name": "시체 폭발",
+      "en": "Detonate Dead",
+      "tier": 7,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Detonate_Dead"
+    },
+    {
+      "id": "Profane_Ritual",
+      "name": "부정한 의식",
+      "en": "Profane Ritual",
+      "tier": 7,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Profane_Ritual"
+    },
+    {
+      "id": "Skeletal_Reaver",
+      "name": "해골 강탈자",
+      "en": "Skeletal Reaver",
+      "tier": 9,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Reaver"
+    },
+    {
+      "id": "Despair",
+      "name": "절망",
+      "en": "Despair",
+      "tier": 9,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Curse"
+      ],
+      "source": "https://poe2db.tw/kr/Despair"
+    },
+    {
+      "id": "Dark_Effigy",
+      "name": "어둠의 제웅",
+      "en": "Dark Effigy",
+      "tier": 9,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Totem",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Dark_Effigy"
+    },
+    {
+      "id": "Skeletal_Storm_Mage",
+      "name": "해골 폭풍 마법사",
+      "en": "Skeletal Storm Mage",
+      "tier": 11,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Storm_Mage"
+    },
+    {
+      "id": "Hexblast",
+      "name": "사술 폭발",
+      "en": "Hexblast",
+      "tier": 11,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Hexblast"
+    },
+    {
+      "id": "Bone_Offering",
+      "name": "뼈 공물",
+      "en": "Bone Offering",
+      "tier": 11,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Bone_Offering"
+    },
+    {
+      "id": "Skeletal_Brute",
+      "name": "해골 돌격병",
+      "en": "Skeletal Brute",
+      "tier": 13,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent",
+        "Warcry"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Brute"
+    },
+    {
+      "id": "Skeletal_Cleric",
+      "name": "해골 성직자",
+      "en": "Skeletal Cleric",
+      "tier": 13,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Skeletal_Cleric"
+    },
+    {
+      "id": "Soul_Offering",
+      "name": "영혼 공물",
+      "en": "Soul Offering",
+      "tier": 13,
+      "groups": [
+        "Occult"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Soul_Offering"
+    },
+    {
+      "id": "Lightning_Arrow",
+      "name": "번개 화살",
+      "en": "Lightning Arrow",
+      "tier": 1,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Lightning_Arrow"
+    },
+    {
+      "id": "Escape_Shot",
+      "name": "탈출 사격",
+      "en": "Escape Shot",
+      "tier": 1,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Escape_Shot"
+    },
+    {
+      "id": "Poisonburst_Arrow",
+      "name": "독 폭발 화살",
+      "en": "Poisonburst Arrow",
+      "tier": 1,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Poisonburst_Arrow"
+    },
+    {
+      "id": "Lightning_Rod",
+      "name": "피뢰침",
+      "en": "Lightning Rod",
+      "tier": 1,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Lightning_Rod"
+    },
+    {
+      "id": "Freezing_Salvo",
+      "name": "얼어붙는 포화",
+      "en": "Freezing Salvo",
+      "tier": 3,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Freezing_Salvo"
+    },
+    {
+      "id": "Stormcaller_Arrow",
+      "name": "폭풍 소환사 화살",
+      "en": "Stormcaller Arrow",
+      "tier": 3,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Stormcaller_Arrow"
+    },
+    {
+      "id": "Snipe",
+      "name": "저격",
+      "en": "Snipe",
+      "tier": 3,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Snipe"
+    },
+    {
+      "id": "Vine_Arrow",
+      "name": "덩굴 화살",
+      "en": "Vine Arrow",
+      "tier": 3,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Vine_Arrow"
+    },
+    {
+      "id": "Ice-Tipped_Arrows",
+      "name": "얼음촉 화살",
+      "en": "Ice-Tipped Arrows",
+      "tier": 5,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows",
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Spell",
+        "Buff",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ice-Tipped_Arrows"
+    },
+    {
+      "id": "Barrage",
+      "name": "연발 사격",
+      "en": "Barrage",
+      "tier": 5,
+      "groups": [
+        "Bow",
+        "Spear"
+      ],
+      "requires": [
+        "Bows",
+        "Spears"
+      ],
+      "tags": [
+        "Spell",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Barrage"
+    },
+    {
+      "id": "Toxic_Growth",
+      "name": "맹독성 종양",
+      "en": "Toxic Growth",
+      "tier": 5,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Toxic_Growth"
+    },
+    {
+      "id": "Electrocuting_Arrow",
+      "name": "전기 처형의 화살",
+      "en": "Electrocuting Arrow",
+      "tier": 5,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Electrocuting_Arrow"
+    },
+    {
+      "id": "Gas_Arrow",
+      "name": "가스 화살",
+      "en": "Gas Arrow",
+      "tier": 7,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Gas_Arrow"
+    },
+    {
+      "id": "Voltaic_Mark",
+      "name": "전도성 징표",
+      "en": "Voltaic Mark",
+      "tier": 7,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [],
+      "tags": [
+        "Buff",
+        "Mark"
+      ],
+      "source": "https://poe2db.tw/kr/Voltaic_Mark"
+    },
+    {
+      "id": "Freezing_Mark",
+      "name": "동결의 징표",
+      "en": "Freezing Mark",
+      "tier": 7,
+      "groups": [
+        "Bow",
+        "Quarterstaff"
+      ],
+      "requires": [],
+      "tags": [
+        "Buff",
+        "Mark"
+      ],
+      "source": "https://poe2db.tw/kr/Freezing_Mark"
+    },
+    {
+      "id": "Sniper's_Mark",
+      "name": "저격수의 징표",
+      "en": "Sniper's Mark",
+      "tier": 7,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [],
+      "tags": [
+        "Mark"
+      ],
+      "source": "https://poe2db.tw/kr/Snipers_Mark"
+    },
+    {
+      "id": "Ice_Shot",
+      "name": "얼음 화살",
+      "en": "Ice Shot",
+      "tier": 9,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ice_Shot"
+    },
+    {
+      "id": "Detonating_Arrow",
+      "name": "폭발 화살",
+      "en": "Detonating Arrow",
+      "tier": 9,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Detonating_Arrow"
+    },
+    {
+      "id": "Rain_of_Arrows",
+      "name": "화살비",
+      "en": "Rain of Arrows",
+      "tier": 9,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Rain_of_Arrows"
+    },
+    {
+      "id": "Shockchain_Arrow",
+      "name": "감전연쇄 화살",
+      "en": "Shockchain Arrow",
+      "tier": 11,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Shockchain_Arrow"
+    },
+    {
+      "id": "Tornado_Shot",
+      "name": "회오리 사격",
+      "en": "Tornado Shot",
+      "tier": 11,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Tornado_Shot"
+    },
+    {
+      "id": "Magnetic_Salvo",
+      "name": "자성 포화",
+      "en": "Magnetic Salvo",
+      "tier": 13,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Magnetic_Salvo"
+    },
+    {
+      "id": "Spiral_Volley",
+      "name": "나선 사격 공세",
+      "en": "Spiral Volley",
+      "tier": 13,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Spiral_Volley"
+    },
+    {
+      "id": "Toxic_Domain",
+      "name": "맹독성 영역",
+      "en": "Toxic Domain",
+      "tier": 13,
+      "groups": [
+        "Bow"
+      ],
+      "requires": [
+        "Bows",
+        "Spears",
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Toxic_Domain"
+    },
+    {
+      "id": "Rolling_Slam",
+      "name": "몰려오는 강타",
+      "en": "Rolling Slam",
+      "tier": 1,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Rolling_Slam"
+    },
+    {
+      "id": "Boneshatter",
+      "name": "뼈 박살",
+      "en": "Boneshatter",
+      "tier": 1,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Boneshatter"
+    },
+    {
+      "id": "Earthquake",
+      "name": "지진",
+      "en": "Earthquake",
+      "tier": 1,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Earthquake"
+    },
+    {
+      "id": "Shield_Charge",
+      "name": "방패 돌진",
+      "en": "Shield Charge",
+      "tier": 3,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Armoured Shield"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Shield_Charge"
+    },
+    {
+      "id": "Shockwave_Totem",
+      "name": "충격파 토템",
+      "en": "Shockwave Totem",
+      "tier": 3,
+      "groups": [
+        "Mace",
+        "Primal"
+      ],
+      "requires": [
+        "Any Martial Weapon"
+      ],
+      "tags": [
+        "Attack",
+        "Totem",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Shockwave_Totem"
+    },
+    {
+      "id": "Armour_Breaker",
+      "name": "방어구 파괴자",
+      "en": "Armour Breaker",
+      "tier": 3,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Armour_Breaker"
+    },
+    {
+      "id": "Infernal_Cry",
+      "name": "지옥불 함성",
+      "en": "Infernal Cry",
+      "tier": 3,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [],
+      "tags": [
+        "Warcry"
+      ],
+      "source": "https://poe2db.tw/kr/Infernal_Cry"
+    },
+    {
+      "id": "Molten_Blast",
+      "name": "녹아내린 폭발",
+      "en": "Molten Blast",
+      "tier": 5,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Molten_Blast"
+    },
+    {
+      "id": "Perfect_Strike",
+      "name": "완벽한 타격",
+      "en": "Perfect Strike",
+      "tier": 5,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Perfect_Strike"
+    },
+    {
+      "id": "Resonating_Shield",
+      "name": "공명하는 방패",
+      "en": "Resonating Shield",
+      "tier": 5,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Armoured Shield"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Resonating_Shield"
+    },
+    {
+      "id": "Shield_Wall",
+      "name": "방패의 벽",
+      "en": "Shield Wall",
+      "tier": 7,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Armoured Shield"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Shield_Wall"
+    },
+    {
+      "id": "Earthshatter",
+      "name": "지면 분쇄",
+      "en": "Earthshatter",
+      "tier": 7,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Earthshatter"
+    },
+    {
+      "id": "Volcanic_Fissure",
+      "name": "화산 균열",
+      "en": "Volcanic Fissure",
+      "tier": 7,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Volcanic_Fissure"
+    },
+    {
+      "id": "Leap_Slam",
+      "name": "도약 강타",
+      "en": "Leap Slam",
+      "tier": 7,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Leap_Slam"
+    },
+    {
+      "id": "Fortifying_Cry",
+      "name": "보강하는 함성",
+      "en": "Fortifying Cry",
+      "tier": 9,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Armoured Shield"
+      ],
+      "tags": [
+        "Attack",
+        "Warcry",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Fortifying_Cry"
+    },
+    {
+      "id": "Forge_Hammer",
+      "name": "대장간 망치",
+      "en": "Forge Hammer",
+      "tier": 9,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Forge_Hammer"
+    },
+    {
+      "id": "Sunder",
+      "name": "산산조각",
+      "en": "Sunder",
+      "tier": 9,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Sunder"
+    },
+    {
+      "id": "Supercharged_Slam",
+      "name": "초과 충전 강타",
+      "en": "Supercharged Slam",
+      "tier": 11,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Supercharged_Slam"
+    },
+    {
+      "id": "Seismic_Cry",
+      "name": "지진 함성",
+      "en": "Seismic Cry",
+      "tier": 11,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [],
+      "tags": [
+        "Warcry"
+      ],
+      "source": "https://poe2db.tw/kr/Seismic_Cry"
+    },
+    {
+      "id": "Stampede",
+      "name": "쇄도",
+      "en": "Stampede",
+      "tier": 11,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Stampede"
+    },
+    {
+      "id": "Ancestral_Cry",
+      "name": "선대의 함성",
+      "en": "Ancestral Cry",
+      "tier": 13,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "Any Melee Martial Weapon or Unarmed"
+      ],
+      "tags": [
+        "Attack",
+        "Warcry",
+        "Buff",
+        "Conditional",
+        "Melee",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ancestral_Cry"
+    },
+    {
+      "id": "Hammer_of_the_Gods",
+      "name": "신들의 망치",
+      "en": "Hammer of the Gods",
+      "tier": 13,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Conditional",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Hammer_of_the_Gods"
+    },
+    {
+      "id": "Ancestral_Warrior_Totem",
+      "name": "선대의 전사 토템",
+      "en": "Ancestral Warrior Totem",
+      "tier": 13,
+      "groups": [
+        "Mace"
+      ],
+      "requires": [
+        "One Hand Maces",
+        "Two Hand Maces"
+      ],
+      "tags": [
+        "Attack",
+        "Meta",
+        "Conditional",
+        "Totem",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Ancestral_Warrior_Totem"
+    },
+    {
+      "id": "Spark",
+      "name": "전기불꽃",
+      "en": "Spark",
+      "tier": 1,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Spark"
+    },
+    {
+      "id": "Ice_Nova",
+      "name": "얼음 폭발",
+      "en": "Ice Nova",
+      "tier": 1,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Ice_Nova"
+    },
+    {
+      "id": "Flame_Wall",
+      "name": "화염 벽",
+      "en": "Flame Wall",
+      "tier": 1,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Flame_Wall"
+    },
+    {
+      "id": "Frost_Bomb",
+      "name": "서리 폭탄",
+      "en": "Frost Bomb",
+      "tier": 1,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Frost_Bomb"
+    },
+    {
+      "id": "Frost_Darts",
+      "name": "서리 화살침",
+      "en": "Frost Darts",
+      "tier": 3,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Frost_Darts"
+    },
+    {
+      "id": "Living_Bomb",
+      "name": "살아있는 폭탄",
+      "en": "Living Bomb",
+      "tier": 3,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Living_Bomb"
+    },
+    {
+      "id": "Fireball",
+      "name": "화염구",
+      "en": "Fireball",
+      "tier": 3,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Fireball"
+    },
+    {
+      "id": "Orb_of_Storms",
+      "name": "폭풍 보주",
+      "en": "Orb of Storms",
+      "tier": 3,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Orb_of_Storms"
+    },
+    {
+      "id": "Arc",
+      "name": "연쇄 번개",
+      "en": "Arc",
+      "tier": 5,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Arc"
+    },
+    {
+      "id": "Frostbolt",
+      "name": "서리 구체",
+      "en": "Frostbolt",
+      "tier": 5,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Frostbolt"
+    },
+    {
+      "id": "Snap",
+      "name": "돌발",
+      "en": "Snap",
+      "tier": 5,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Snap"
+    },
+    {
+      "id": "Ember_Fusillade",
+      "name": "불씨 일제 사격",
+      "en": "Ember Fusillade",
+      "tier": 5,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ember_Fusillade"
+    },
+    {
+      "id": "Elemental_Weakness",
+      "name": "원소 약화",
+      "en": "Elemental Weakness",
+      "tier": 7,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Curse"
+      ],
+      "source": "https://poe2db.tw/kr/Elemental_Weakness"
+    },
+    {
+      "id": "Mana_Tempest",
+      "name": "마나 폭풍",
+      "en": "Mana Tempest",
+      "tier": 7,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Mana_Tempest"
+    },
+    {
+      "id": "Temporal_Chains",
+      "name": "시간의 사슬",
+      "en": "Temporal Chains",
+      "tier": 7,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Curse"
+      ],
+      "source": "https://poe2db.tw/kr/Temporal_Chains"
+    },
+    {
+      "id": "Incinerate",
+      "name": "소각",
+      "en": "Incinerate",
+      "tier": 9,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Channelling"
+      ],
+      "source": "https://poe2db.tw/kr/Incinerate"
+    },
+    {
+      "id": "Lightning_Warp",
+      "name": "번개 차원 이동",
+      "en": "Lightning Warp",
+      "tier": 9,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Lightning_Warp"
+    },
+    {
+      "id": "Frost_Wall",
+      "name": "서리 방벽",
+      "en": "Frost Wall",
+      "tier": 9,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Frost_Wall"
+    },
+    {
+      "id": "Ball_Lightning",
+      "name": "구형 번개",
+      "en": "Ball Lightning",
+      "tier": 11,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ball_Lightning"
+    },
+    {
+      "id": "Firestorm",
+      "name": "화염 폭풍",
+      "en": "Firestorm",
+      "tier": 11,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Firestorm"
+    },
+    {
+      "id": "Comet",
+      "name": "혜성",
+      "en": "Comet",
+      "tier": 11,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Comet"
+    },
+    {
+      "id": "Flameblast",
+      "name": "화염파",
+      "en": "Flameblast",
+      "tier": 13,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Channelling"
+      ],
+      "source": "https://poe2db.tw/kr/Flameblast"
+    },
+    {
+      "id": "Eye_of_Winter",
+      "name": "겨울의 눈",
+      "en": "Eye of Winter",
+      "tier": 13,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Eye_of_Winter"
+    },
+    {
+      "id": "Lightning_Conduit",
+      "name": "번개 도관",
+      "en": "Lightning Conduit",
+      "tier": 13,
+      "groups": [
+        "Elemental"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Lightning_Conduit"
+    },
+    {
+      "id": "Disengage",
+      "name": "철수",
+      "en": "Disengage",
+      "tier": 1,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Disengage"
+    },
+    {
+      "id": "Whirling_Slash",
+      "name": "소용돌이 베기",
+      "en": "Whirling Slash",
+      "tier": 1,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Whirling_Slash"
+    },
+    {
+      "id": "Twister",
+      "name": "돌개바람",
+      "en": "Twister",
+      "tier": 1,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Twister"
+    },
+    {
+      "id": "Explosive_Spear",
+      "name": "폭발 창",
+      "en": "Explosive Spear",
+      "tier": 1,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Explosive_Spear"
+    },
+    {
+      "id": "Rake",
+      "name": "갈퀴질",
+      "en": "Rake",
+      "tier": 3,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Rake"
+    },
+    {
+      "id": "Fangs_of_Frost",
+      "name": "서리의 송곳니",
+      "en": "Fangs of Frost",
+      "tier": 3,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Fangs_of_Frost"
+    },
+    {
+      "id": "Lightning_Spear",
+      "name": "번개 창",
+      "en": "Lightning Spear",
+      "tier": 3,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Lightning_Spear"
+    },
+    {
+      "id": "Cull_The_Weak",
+      "name": "약자 솎아내기",
+      "en": "Cull The Weak",
+      "tier": 3,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Cull_The_Weak"
+    },
+    {
+      "id": "Rapid_Assault",
+      "name": "신속한 공격",
+      "en": "Rapid Assault",
+      "tier": 5,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Rapid_Assault"
+    },
+    {
+      "id": "Storm_Lance",
+      "name": "폭풍의 창",
+      "en": "Storm Lance",
+      "tier": 5,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Storm_Lance"
+    },
+    {
+      "id": "Spearfield",
+      "name": "창의 지대",
+      "en": "Spearfield",
+      "tier": 5,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Spearfield"
+    },
+    {
+      "id": "Glacial_Lance",
+      "name": "빙하 창",
+      "en": "Glacial Lance",
+      "tier": 7,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Glacial_Lance"
+    },
+    {
+      "id": "Blood_Hunt",
+      "name": "피의 사냥",
+      "en": "Blood Hunt",
+      "tier": 7,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Blood_Hunt"
+    },
+    {
+      "id": "Tame_Beast",
+      "name": "짐승 길들이기",
+      "en": "Tame Beast",
+      "tier": 7,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "source": "https://poe2db.tw/kr/Tame_Beast"
+    },
+    {
+      "id": "Thunderous_Leap",
+      "name": "천둥 같은 도약",
+      "en": "Thunderous Leap",
+      "tier": 9,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Thunderous_Leap"
+    },
+    {
+      "id": "Primal_Strikes",
+      "name": "원시 타격",
+      "en": "Primal Strikes",
+      "tier": 9,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Primal_Strikes"
+    },
+    {
+      "id": "Bloodhound's_Mark",
+      "name": "피사냥개의 징표",
+      "en": "Bloodhound's Mark",
+      "tier": 9,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [],
+      "tags": [
+        "Attack",
+        "Mark"
+      ],
+      "source": "https://poe2db.tw/kr/Bloodhounds_Mark"
+    },
+    {
+      "id": "Elemental_Sundering",
+      "name": "원소 작렬",
+      "en": "Elemental Sundering",
+      "tier": 11,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Elemental_Sundering"
+    },
+    {
+      "id": "Whirlwind_Lance",
+      "name": "와류 기병창",
+      "en": "Whirlwind Lance",
+      "tier": 11,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Whirlwind_Lance"
+    },
+    {
+      "id": "Spear_of_Solaris",
+      "name": "솔라리스의 창",
+      "en": "Spear of Solaris",
+      "tier": 13,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Conditional",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Spear_of_Solaris"
+    },
+    {
+      "id": "Wind_Serpent's_Fury",
+      "name": "바람 독사의 광분",
+      "en": "Wind Serpent's Fury",
+      "tier": 13,
+      "groups": [
+        "Spear"
+      ],
+      "requires": [
+        "Spears"
+      ],
+      "tags": [
+        "Attack",
+        "Conditional",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Wind_Serpents_Fury"
+    },
+    {
+      "id": "Explosive_Grenade",
+      "name": "폭발 유탄",
+      "en": "Explosive Grenade",
+      "tier": 1,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Explosive_Grenade"
+    },
+    {
+      "id": "Permafrost_Bolts",
+      "name": "영구 결빙 볼트",
+      "en": "Permafrost Bolts",
+      "tier": 1,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Permafrost_Bolts"
+    },
+    {
+      "id": "Fragmentation_Rounds",
+      "name": "파편 탄환",
+      "en": "Fragmentation Rounds",
+      "tier": 1,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Fragmentation_Rounds"
+    },
+    {
+      "id": "Armour_Piercing_Rounds",
+      "name": "방어구 관통 탄환",
+      "en": "Armour Piercing Rounds",
+      "tier": 1,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Armour_Piercing_Rounds"
+    },
+    {
+      "id": "Flash_Grenade",
+      "name": "섬광 유탄",
+      "en": "Flash Grenade",
+      "tier": 3,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Flash_Grenade"
+    },
+    {
+      "id": "High_Velocity_Rounds",
+      "name": "고속 탄환",
+      "en": "High Velocity Rounds",
+      "tier": 3,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/High_Velocity_Rounds"
+    },
+    {
+      "id": "Incendiary_Shot",
+      "name": "소이 사격",
+      "en": "Incendiary Shot",
+      "tier": 3,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Incendiary_Shot"
+    },
+    {
+      "id": "Galvanic_Shards",
+      "name": "충격 파편",
+      "en": "Galvanic Shards",
+      "tier": 5,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Galvanic_Shards"
+    },
+    {
+      "id": "Ice_Shards",
+      "name": "얼음 파편",
+      "en": "Ice Shards",
+      "tier": 5,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Ice_Shards"
+    },
+    {
+      "id": "Gas_Grenade",
+      "name": "가스 유탄",
+      "en": "Gas Grenade",
+      "tier": 5,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Gas_Grenade"
+    },
+    {
+      "id": "Rapid_Shot",
+      "name": "신속한 사격",
+      "en": "Rapid Shot",
+      "tier": 5,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Rapid_Shot"
+    },
+    {
+      "id": "Artillery_Ballista",
+      "name": "포대 쇠뇌",
+      "en": "Artillery Ballista",
+      "tier": 7,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Totem",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Artillery_Ballista"
+    },
+    {
+      "id": "Glacial_Bolt",
+      "name": "빙하 볼트",
+      "en": "Glacial Bolt",
+      "tier": 7,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Glacial_Bolt"
+    },
+    {
+      "id": "Explosive_Shot",
+      "name": "폭발성 사격",
+      "en": "Explosive Shot",
+      "tier": 7,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Explosive_Shot"
+    },
+    {
+      "id": "Voltaic_Grenade",
+      "name": "전도성 유탄",
+      "en": "Voltaic Grenade",
+      "tier": 7,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Voltaic_Grenade"
+    },
+    {
+      "id": "Oil_Grenade",
+      "name": "기름 유탄",
+      "en": "Oil Grenade",
+      "tier": 9,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Oil_Grenade"
+    },
+    {
+      "id": "Siege_Ballista",
+      "name": "공성 쇠뇌",
+      "en": "Siege Ballista",
+      "tier": 9,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Totem",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Siege_Ballista"
+    },
+    {
+      "id": "Stormblast_Bolts",
+      "name": "태풍 파열 볼트",
+      "en": "Stormblast Bolts",
+      "tier": 9,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Stormblast_Bolts"
+    },
+    {
+      "id": "Hailstorm_Rounds",
+      "name": "우박폭풍 탄환",
+      "en": "Hailstorm Rounds",
+      "tier": 11,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Hailstorm_Rounds"
+    },
+    {
+      "id": "Shockburst_Rounds",
+      "name": "감전 파열 탄환",
+      "en": "Shockburst Rounds",
+      "tier": 11,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Shockburst_Rounds"
+    },
+    {
+      "id": "Emergency_Reload",
+      "name": "비상 재장전",
+      "en": "Emergency Reload",
+      "tier": 11,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Emergency_Reload"
+    },
+    {
+      "id": "Mortar_Cannon",
+      "name": "박격포 대포",
+      "en": "Mortar Cannon",
+      "tier": 11,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Meta",
+        "Totem"
+      ],
+      "source": "https://poe2db.tw/kr/Mortar_Cannon"
+    },
+    {
+      "id": "Siege_Cascade",
+      "name": "공성 폭포",
+      "en": "Siege Cascade",
+      "tier": 13,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Siege_Cascade"
+    },
+    {
+      "id": "Plasma_Blast",
+      "name": "플라스마 폭발",
+      "en": "Plasma Blast",
+      "tier": 13,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Plasma_Blast"
+    },
+    {
+      "id": "Cluster_Grenade",
+      "name": "집속 유탄",
+      "en": "Cluster Grenade",
+      "tier": 13,
+      "groups": [
+        "Crossbow"
+      ],
+      "requires": [
+        "Crossbows"
+      ],
+      "tags": [
+        "Attack",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Cluster_Grenade"
+    },
+    {
+      "id": "Falling_Thunder",
+      "name": "떨어지는 천둥",
+      "en": "Falling Thunder",
+      "tier": 1,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Falling_Thunder"
+    },
+    {
+      "id": "Frozen_Locus",
+      "name": "얼어붙은 궤적",
+      "en": "Frozen Locus",
+      "tier": 1,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Frozen_Locus"
+    },
+    {
+      "id": "Killing_Palm",
+      "name": "살상 장법",
+      "en": "Killing Palm",
+      "tier": 1,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Killing_Palm"
+    },
+    {
+      "id": "Glacial_Cascade",
+      "name": "빙하 폭포",
+      "en": "Glacial Cascade",
+      "tier": 1,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Glacial_Cascade"
+    },
+    {
+      "id": "Staggering_Palm",
+      "name": "충격 장법",
+      "en": "Staggering Palm",
+      "tier": 3,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Buff",
+        "Melee",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Staggering_Palm"
+    },
+    {
+      "id": "Tempest_Bell",
+      "name": "폭풍의 종",
+      "en": "Tempest Bell",
+      "tier": 3,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Conditional",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Tempest_Bell"
+    },
+    {
+      "id": "Wind_Blast",
+      "name": "바람 폭발",
+      "en": "Wind Blast",
+      "tier": 3,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Wind_Blast"
+    },
+    {
+      "id": "Ice_Strike",
+      "name": "얼음 타격",
+      "en": "Ice Strike",
+      "tier": 5,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Ice_Strike"
+    },
+    {
+      "id": "Tempest_Flurry",
+      "name": "폭풍의 질풍",
+      "en": "Tempest Flurry",
+      "tier": 5,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Tempest_Flurry"
+    },
+    {
+      "id": "Vaulting_Impact",
+      "name": "뜀틀 충격",
+      "en": "Vaulting Impact",
+      "tier": 5,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Vaulting_Impact"
+    },
+    {
+      "id": "Wave_of_Frost",
+      "name": "서리의 파도",
+      "en": "Wave of Frost",
+      "tier": 7,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Wave_of_Frost"
+    },
+    {
+      "id": "Siphoning_Strike",
+      "name": "착취 타격",
+      "en": "Siphoning Strike",
+      "tier": 7,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Siphoning_Strike"
+    },
+    {
+      "id": "Storm_Wave",
+      "name": "폭풍 파도",
+      "en": "Storm Wave",
+      "tier": 7,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Storm_Wave"
+    },
+    {
+      "id": "Charged_Staff",
+      "name": "충전 지팡이",
+      "en": "Charged Staff",
+      "tier": 9,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Spell",
+        "Buff",
+        "Conditional"
+      ],
+      "source": "https://poe2db.tw/kr/Charged_Staff"
+    },
+    {
+      "id": "Mantra_of_Destruction",
+      "name": "파괴의 주문",
+      "en": "Mantra of Destruction",
+      "tier": 9,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Buff",
+        "Conditional"
+      ],
+      "source": "https://poe2db.tw/kr/Mantra_of_Destruction"
+    },
+    {
+      "id": "Hand_of_Chayula",
+      "name": "차율라의 손",
+      "en": "Hand of Chayula",
+      "tier": 9,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Meta",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Hand_of_Chayula"
+    },
+    {
+      "id": "Shattering_Palm",
+      "name": "격파 장법",
+      "en": "Shattering Palm",
+      "tier": 11,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Shattering_Palm"
+    },
+    {
+      "id": "Whirling_Assault",
+      "name": "선회 공격",
+      "en": "Whirling Assault",
+      "tier": 11,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Whirling_Assault"
+    },
+    {
+      "id": "Flicker_Strike",
+      "name": "점멸 타격",
+      "en": "Flicker Strike",
+      "tier": 13,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Flicker_Strike"
+    },
+    {
+      "id": "Gathering_Storm",
+      "name": "몰려드는 폭풍",
+      "en": "Gathering Storm",
+      "tier": 13,
+      "groups": [
+        "Quarterstaff"
+      ],
+      "requires": [
+        "Quarterstaves"
+      ],
+      "tags": [
+        "Attack",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Gathering_Storm"
+    },
+    {
+      "id": "Lunar_Assault",
+      "name": "달의 공격",
+      "en": "Lunar Assault",
+      "tier": 1,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Werewolf",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Lunar_Assault"
+    },
+    {
+      "id": "Entangle",
+      "name": "얽어매기",
+      "en": "Entangle",
+      "tier": 1,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Entangle"
+    },
+    {
+      "id": "Volcano",
+      "name": "화산",
+      "en": "Volcano",
+      "tier": 1,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Volcano"
+    },
+    {
+      "id": "Furious_Slam",
+      "name": "분개한 강타",
+      "en": "Furious Slam",
+      "tier": 1,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Bear",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Furious_Slam"
+    },
+    {
+      "id": "Rolling_Magma",
+      "name": "몰려오는 마그마",
+      "en": "Rolling Magma",
+      "tier": 3,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Wyvern",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Rolling_Magma"
+    },
+    {
+      "id": "Wing_Blast",
+      "name": "날개 돌풍",
+      "en": "Wing Blast",
+      "tier": 3,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Wyvern",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Wing_Blast"
+    },
+    {
+      "id": "Pounce",
+      "name": "급습",
+      "en": "Pounce",
+      "tier": 3,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Minion",
+        "Meta",
+        "Werewolf",
+        "Mark",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Pounce"
+    },
+    {
+      "id": "Thunderstorm",
+      "name": "뇌우",
+      "en": "Thunderstorm",
+      "tier": 5,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Thunderstorm"
+    },
+    {
+      "id": "Devour",
+      "name": "포식",
+      "en": "Devour",
+      "tier": 5,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Wyvern",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Devour"
+    },
+    {
+      "id": "Arctic_Howl",
+      "name": "한기의 울부짖음",
+      "en": "Arctic Howl",
+      "tier": 5,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Werewolf",
+        "Warcry",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Arctic_Howl"
+    },
+    {
+      "id": "Fury_of_the_Mountain",
+      "name": "산의 광분",
+      "en": "Fury of the Mountain",
+      "tier": 5,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Bear",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Fury_of_the_Mountain"
+    },
+    {
+      "id": "Ferocious_Roar",
+      "name": "사나운 포효",
+      "en": "Ferocious Roar",
+      "tier": 7,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Meta",
+        "Bear",
+        "Warcry"
+      ],
+      "source": "https://poe2db.tw/kr/Ferocious_Roar"
+    },
+    {
+      "id": "Spell_Totem",
+      "name": "주문 토템",
+      "en": "Spell Totem",
+      "tier": 7,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell",
+        "Meta",
+        "Conditional",
+        "Totem"
+      ],
+      "source": "https://poe2db.tw/kr/Spell_Totem"
+    },
+    {
+      "id": "Cross_Slash",
+      "name": "십자 베기",
+      "en": "Cross Slash",
+      "tier": 7,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Werewolf",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Cross_Slash"
+    },
+    {
+      "id": "Thrashing_Vines",
+      "name": "몸부림치는 덩굴",
+      "en": "Thrashing Vines",
+      "tier": 9,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Thrashing_Vines"
+    },
+    {
+      "id": "Oil_Barrage",
+      "name": "기름 포화",
+      "en": "Oil Barrage",
+      "tier": 9,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Wyvern",
+        "Channelling",
+        "Projectile"
+      ],
+      "source": "https://poe2db.tw/kr/Oil_Barrage"
+    },
+    {
+      "id": "Rampage",
+      "name": "광란",
+      "en": "Rampage",
+      "tier": 11,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Bear",
+        "Channelling",
+        "Melee"
+      ],
+      "source": "https://poe2db.tw/kr/Rampage"
+    },
+    {
+      "id": "Tornado",
+      "name": "회오리",
+      "en": "Tornado",
+      "tier": 11,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [],
+      "tags": [
+        "Spell"
+      ],
+      "source": "https://poe2db.tw/kr/Tornado"
+    },
+    {
+      "id": "Flame_Breath",
+      "name": "화염 숨결",
+      "en": "Flame Breath",
+      "tier": 13,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Wyvern",
+        "Channelling"
+      ],
+      "source": "https://poe2db.tw/kr/Flame_Breath"
+    },
+    {
+      "id": "Lunar_Blessing",
+      "name": "달의 축복",
+      "en": "Lunar Blessing",
+      "tier": 13,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Werewolf",
+        "Warcry",
+        "Buff"
+      ],
+      "source": "https://poe2db.tw/kr/Lunar_Blessing"
+    },
+    {
+      "id": "Walking_Calamity",
+      "name": "걸어다니는 대재난",
+      "en": "Walking Calamity",
+      "tier": 13,
+      "groups": [
+        "Primal"
+      ],
+      "requires": [
+        "Talismans"
+      ],
+      "tags": [
+        "Attack",
+        "Bear",
+        "Buff",
+        "Conditional"
+      ],
+      "source": "https://poe2db.tw/kr/Walking_Calamity"
+    }
+  ]
+}

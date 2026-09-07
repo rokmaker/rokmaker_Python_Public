@@ -1,0 +1,7 @@
+{
+  "name": "poe2-exile-slot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent local PoE2 equipment-compatible build randomizer",
+  "scripts": { "test": "node test.cjs" }
+}

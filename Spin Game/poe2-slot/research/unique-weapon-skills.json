@@ -1,0 +1,546 @@
+{
+  "checkedAt": "2026-09-07",
+  "scope": "고유무기의 명시적 레벨 스킬 부여 옵션 중 일반 젬과 중복되지 않는 19종. 기본 베이스 부여 스킬은 이번 추가 범위에서 제외.",
+  "skills": [
+    {
+      "id": "unique:Molten_Shower",
+      "en": "Molten Shower",
+      "name": "녹아내린 소나기",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "mace-shield",
+        "dual-mace"
+      ],
+      "tags": [
+        "Triggered",
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "브루투스의 리드 스프링클러",
+        "source": "https://poe2db.tw/kr/Brutus_Lead_Sprinkler"
+      },
+      "requirementLabel": "브루투스의 리드 스프링클러 고유무기 장착 필수",
+      "notes": [
+        "해당 철퇴로 명중해야 발동합니다. 힘에 따라 발동 확률이 달라집니다."
+      ],
+      "source": "https://poe2db.tw/kr/Molten_Shower"
+    },
+    {
+      "id": "unique:Thundergods_Wrath",
+      "en": "Thundergods Wrath",
+      "name": "천둥신의 진노",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "mace-shield",
+        "dual-mace"
+      ],
+      "tags": [
+        "Meta",
+        "Persistent",
+        "Buff"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "묠니르",
+        "source": "https://poe2db.tw/kr/Mj%C3%B6lner"
+      },
+      "requirementLabel": "묠니르 고유무기 장착 필수",
+      "notes": [
+        "번개 주문을 이 메타 스킬에 장착하고 명중으로 에너지를 모아 발동시키세요."
+      ],
+      "source": "https://poe2db.tw/kr/Thundergods_Wrath"
+    },
+    {
+      "id": "unique:Runic_Tempering",
+      "en": "Runic Tempering",
+      "name": "룬의 담금질",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "mace-shield",
+        "dual-mace"
+      ],
+      "tags": [],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "세를의 근성",
+        "source": "https://poe2db.tw/kr/Serles_Grit"
+      },
+      "requirementLabel": "세를의 근성 고유무기 장착 필수",
+      "notes": [
+        "집중 유지로 룬 판금을 준비하는 스킬입니다. 단독 주력 공격이 아닙니다."
+      ],
+      "source": "https://poe2db.tw/kr/Runic_Tempering"
+    },
+    {
+      "id": "unique:Harbinger_of_Madness",
+      "en": "Harbinger of Madness",
+      "name": "광기의 선구자",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "mace-shield",
+        "dual-mace"
+      ],
+      "tags": [
+        "Buff",
+        "Persistent"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "가학자의 자비",
+        "source": "https://poe2db.tw/kr/Sadists_Mercy"
+      },
+      "requirementLabel": "가학자의 자비 고유무기 장착 필수",
+      "notes": [
+        "유지형 스킬입니다. 근접 처치 또는 희귀·고유 적 명중으로 유령을 생성합니다."
+      ],
+      "source": "https://poe2db.tw/kr/Harbinger_of_Madness"
+    },
+    {
+      "id": "unique:Starborn_Onslaught",
+      "en": "Starborn Onslaught",
+      "name": "별붙이 맹공",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "two-hand-mace"
+      ],
+      "tags": [
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "뒤틀린 천공인",
+        "source": "https://poe2db.tw/kr/Twisted_Empyrean"
+      },
+      "requirementLabel": "뒤틀린 천공인 고유무기 장착 필수",
+      "notes": [
+        "적을 냉각·동결해 영광 20을 모아야 사용할 수 있습니다."
+      ],
+      "source": "https://poe2db.tw/kr/Starborn_Onslaught"
+    },
+    {
+      "id": "unique:Chaotic_Surge",
+      "en": "Chaotic Surge",
+      "name": "혼돈의 쇄도",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "spear-buckler",
+        "spear-shield"
+      ],
+      "tags": [
+        "Attack",
+        "Triggered"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "노여움의 첨탑",
+        "source": "https://poe2db.tw/kr/Spire_of_Ire"
+      },
+      "requirementLabel": "노여움의 첨탑 고유무기 장착 필수",
+      "notes": [
+        "충전을 소모하는 별도 스킬이 필요합니다. 충전 소모로 쇄도를 얻고 투사체 공격에 사용합니다."
+      ],
+      "source": "https://poe2db.tw/kr/Chaotic_Surge"
+    },
+    {
+      "id": "unique:Shattering_Spite",
+      "en": "Shattering Spite",
+      "name": "악의 파편",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "spear-buckler",
+        "spear-shield"
+      ],
+      "tags": [
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "앗지리의 경멸",
+        "source": "https://poe2db.tw/kr/Atziris_Contempt"
+      },
+      "requirementLabel": "앗지리의 경멸 고유무기 장착 필수",
+      "notes": [
+        "다른 창 스킬 명중으로 혈석 창을 먼저 부착한 뒤 폭발시키세요."
+      ],
+      "source": "https://poe2db.tw/kr/Shattering_Spite"
+    },
+    {
+      "id": "unique:Righteous_Descent",
+      "en": "Righteous Descent",
+      "name": "정의로운 강하",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "spear-buckler",
+        "spear-shield"
+      ],
+      "tags": [
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "명을 받은 자",
+        "source": "https://poe2db.tw/kr/The_Ordained"
+      },
+      "requirementLabel": "명을 받은 자 고유무기 장착 필수",
+      "notes": [
+        "고유무기가 생성하는 신성성의 조각을 근처에서 소모하면 강화됩니다."
+      ],
+      "source": "https://poe2db.tw/kr/Righteous_Descent"
+    },
+    {
+      "id": "unique:Phantasmal_Arrow",
+      "en": "Phantasmal Arrow",
+      "name": "환영의 화살",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "bow"
+      ],
+      "tags": [
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "페어그레이브즈의 저주",
+        "source": "https://poe2db.tw/kr/Fairgraves_Curse"
+      },
+      "requirementLabel": "페어그레이브즈의 저주 고유무기 장착 필수",
+      "notes": [
+        "고유무기가 부여하는 활 공격입니다."
+      ],
+      "source": "https://poe2db.tw/kr/Phantasmal_Arrow"
+    },
+    {
+      "id": "unique:Azmerian_Swarms",
+      "en": "Azmerian Swarms",
+      "name": "아즈메리 무리",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "bow"
+      ],
+      "tags": [
+        "Buff",
+        "Persistent",
+        "Minion"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "주변부",
+        "source": "https://poe2db.tw/kr/Periphery"
+      },
+      "requirementLabel": "주변부 고유무기 장착 필수",
+      "notes": [
+        "유지형 소환 스킬입니다. 원소 상태 이상이 걸린 적을 처치하거나 희귀·고유 적을 명중해야 무리가 생성됩니다."
+      ],
+      "source": "https://poe2db.tw/kr/Azmerian_Swarms"
+    },
+    {
+      "id": "unique:Pinnacle_of_Power",
+      "en": "Pinnacle of Power",
+      "name": "힘의 정점",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "wand-focus",
+        "wand-shield",
+        "wand-sceptre"
+      ],
+      "tags": [
+        "Spell",
+        "Buff"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "아도니아의 자아",
+        "source": "https://poe2db.tw/kr/Adonias_Ego"
+      },
+      "requirementLabel": "아도니아의 자아 고유무기 장착 필수",
+      "notes": [
+        "권능 충전을 준비해 소모하는 버프입니다. 별도 공격·주문이 필요합니다."
+      ],
+      "source": "https://poe2db.tw/kr/Pinnacle_of_Power"
+    },
+    {
+      "id": "unique:The_Stars_Answer",
+      "en": "The Stars Answer",
+      "name": "별들의 응답",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "wand-focus",
+        "wand-shield",
+        "wand-sceptre"
+      ],
+      "tags": [
+        "Spell",
+        "Buff"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "룬 탐구자의 소명",
+        "source": "https://poe2db.tw/kr/Runeseekers_Call"
+      },
+      "requirementLabel": "룬 탐구자의 소명 고유무기 장착 필수",
+      "notes": [
+        "시전 시 마나 10,000이 필요합니다. 이미 활성화되어 있으면 다시 시전할 수 없습니다."
+      ],
+      "source": "https://poe2db.tw/kr/The_Stars_Answer"
+    },
+    {
+      "id": "unique:Azmerian_Wolf",
+      "en": "Azmerian Wolf",
+      "name": "아즈메리 늑대",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "wand-sceptre"
+      ],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "숲의 제웅",
+        "source": "https://poe2db.tw/kr/Sylvans_Effigy"
+      },
+      "requirementLabel": "숲의 제웅 고유무기 장착 필수",
+      "notes": [
+        "유지형 반려수입니다. 정신력과 반려수 제한을 확인하세요."
+      ],
+      "source": "https://poe2db.tw/kr/Azmerian_Wolf"
+    },
+    {
+      "id": "unique:Icestorm",
+      "en": "Icestorm",
+      "name": "얼음태풍",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "staff"
+      ],
+      "tags": [
+        "Spell"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "속삭이는 얼음",
+        "source": "https://poe2db.tw/kr/The_Whispering_Ice"
+      },
+      "requirementLabel": "속삭이는 얼음 고유무기 장착 필수",
+      "notes": [
+        "고유 지팡이를 장착해 사용하는 주문입니다."
+      ],
+      "source": "https://poe2db.tw/kr/Icestorm"
+    },
+    {
+      "id": "unique:Sanguine_Revelry",
+      "en": "Sanguine Revelry",
+      "name": "핏빛 환락",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "talisman-bear",
+        "talisman-werewolf",
+        "talisman-wyvern"
+      ],
+      "tags": [
+        "Buff",
+        "Persistent"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": true,
+      "enabled": true,
+      "requiredItem": {
+        "name": "악의에 찬 소화",
+        "source": "https://poe2db.tw/kr/Spiteful_Floret"
+      },
+      "requirementLabel": "악의에 찬 소화 고유무기 장착 필수",
+      "notes": [
+        "유지형 효과입니다. 출혈을 유발할 별도 공격을 준비해 잔류물을 생성하세요."
+      ],
+      "source": "https://poe2db.tw/kr/Sanguine_Revelry"
+    },
+    {
+      "id": "unique:Cackling_Companions",
+      "en": "Cackling Companions",
+      "name": "하이에나 반려수",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "talisman-bear",
+        "talisman-werewolf",
+        "talisman-wyvern"
+      ],
+      "tags": [
+        "Minion",
+        "Persistent"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": true,
+      "enabled": true,
+      "requiredItem": {
+        "name": "히세그의 발톱",
+        "source": "https://poe2db.tw/kr/Hyssegs_Claw"
+      },
+      "requirementLabel": "히세그의 발톱 고유무기 장착 필수",
+      "notes": [
+        "유지형 반려수입니다. 정신력과 반려수 제한을 확인하세요."
+      ],
+      "source": "https://poe2db.tw/kr/Cackling_Companions"
+    },
+    {
+      "id": "unique:Molten_Crash",
+      "en": "Molten Crash",
+      "name": "용암 충격",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "talisman-bear"
+      ],
+      "tags": [
+        "Attack",
+        "Bear"
+      ],
+      "requires": [],
+      "form": "Bear",
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "왕의 광분",
+        "source": "https://poe2db.tw/kr/Fury_of_the_King"
+      },
+      "requirementLabel": "왕의 광분 고유무기 장착 필수",
+      "notes": [
+        "곰 형태에서 사용합니다. 격노를 소모하면 추가 균열을 생성합니다."
+      ],
+      "source": "https://poe2db.tw/kr/Molten_Crash"
+    },
+    {
+      "id": "unique:Gemini_Surge",
+      "en": "Gemini Surge",
+      "name": "쌍둥이 쇄도",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "crossbow"
+      ],
+      "tags": [
+        "Attack",
+        "Triggered"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "이중 시각",
+        "source": "https://poe2db.tw/kr/Double_Vision"
+      },
+      "requirementLabel": "이중 시각 고유무기 장착 필수",
+      "notes": [
+        "재장전할 때 발동해 냉기·화염 쇄도를 번갈아 얻습니다. 석궁 투사체 공격이 쇄도를 소모합니다. 단독으로 누르는 탄약 스킬이 아닙니다."
+      ],
+      "source": "https://poe2db.tw/kr/Gemini_Surge"
+    },
+    {
+      "id": "unique:Requiem",
+      "en": "Requiem",
+      "name": "진혼곡",
+      "origin": "unique-weapon",
+      "tier": null,
+      "groups": [],
+      "weaponIds": [
+        "crossbow"
+      ],
+      "tags": [
+        "Attack"
+      ],
+      "requires": [],
+      "form": null,
+      "allowShapeshifted": false,
+      "enabled": true,
+      "requiredItem": {
+        "name": "최후의 한탄",
+        "source": "https://poe2db.tw/kr/The_Last_Lament"
+      },
+      "requirementLabel": "최후의 한탄 고유무기 장착 필수",
+      "notes": [
+        "고뇌가 100까지 쌓인 뒤 사용합니다. 활성화 중에는 탄약을 소모하지 않는 사격을 사용합니다."
+      ],
+      "source": "https://poe2db.tw/kr/Requiem"
+    }
+  ]
+}
